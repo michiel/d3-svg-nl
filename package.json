@@ -1,0 +1,23 @@
+{
+  "name"        : "d3-svg-nl",
+  "description" : "d3 SVG map of the Netherlands",
+  "author"      : {
+    "name"  : "Michiel Kalkman",
+    "email" : "michielkalkman@gmail.com"
+  },
+  "homepage"   : "https://github.com/michiel/d3-svg-nl",
+  "repository" : {
+    "type" : "git",
+    "url"  : "git://github.com/michiel/d3-svg-nl.git"
+  },
+  "bugs" : {
+    "url" : "https://github.com/michiel/d3-svg-nl/issues"
+  },
+  "version"         : "0.0.1",
+  "dependencies"    : { },
+  "devDependencies" : {
+    "yeoman" : "~0.9.1"
+  },
+  "scripts" : {
+  }
+}
